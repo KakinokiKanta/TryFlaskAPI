@@ -1,0 +1,39 @@
+{
+    
+    "guiter_hero": {
+        "name": "後藤 ひとり",
+        "school": "秀華高校",
+        "grade": "1年生",
+        "role": "リードギター・作詞",
+        "voice": "青山吉能",
+        "comment": "絶対いやだ！働きたくない！！怖い！社会が怖い！！",
+        "imageURL": "http://127.0.0.1:8000/static/guiter_hero.png"
+    },
+    "mama": {
+        "name": "伊地知 虹夏",
+        "school": "下北沢高校",
+        "grade": "2年生",
+        "role": "ドラム",
+        "voice": "鈴代紗弓",
+        "comment": "私の夢もそう遠くない未来叶えられるかも...",
+        "imageURL": "http://127.0.0.1:8000/static/mama.png"
+    },
+    "yamada": {
+        "name": "山田 リョウ",
+        "school": "下北沢高校",
+        "grade": "2年生",
+        "role": "ベース・作曲",
+        "voice": "水野朔",
+        "comment": "バラバラな人間の個性が集まってそれが一つの音楽になるんだよ",
+        "imageURL": "http://127.0.0.1:8000/static/yamada.png"
+    },
+    "ikuyo": {
+        "name": "喜多 郁代",
+        "school": "秀華高校",
+        "grade": "1年生",
+        "role": "ギター・ボーカル・SNS大臣",
+        "voice": "長谷川育美",
+        "comment": "こんなにうまい後藤さんが教えてくれるなら頑張れる気がするかも...",
+        "imageURL": "http://127.0.0.1:8000/static/ikuyo.png"
+    }
+}
